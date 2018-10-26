@@ -40,7 +40,7 @@
  [nx-admin](https://github.com/mgbq/nx-admin)
 
 ## 相关文档
-[老板让我十分钟上手nx-admin](https://juejin.im/post/5b43226c51882519ad616c2a)
+[nx-admin](https://juejin.im/post/5b43226c51882519ad616c2a)
 
 [Vue2.0实现的用户权限控制](http://blog.csdn.net/qq_32340877/article/details/79416344)
 
@@ -86,8 +86,6 @@ npm run lint
 # auto fix
 npm run lint -- --fix
 ```
-## 捐赠 觉得不错 赏个咖啡 让作者打起精神 ~
-<img src="./github/二维码.jpg" width="400px" height="460px" alt="捐赠扫一扫">
 
 ## License
 
